@@ -1,0 +1,12 @@
+.white {
+    color: white;
+    padding-left: 10px;
+}
+.button {
+    padding-left: 10px;
+}
+.footer {
+    padding-top: 38%;
+    text-align: center;
+    position: fixed;
+}
